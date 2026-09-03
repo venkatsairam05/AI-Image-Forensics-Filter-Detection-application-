@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Forensics & Filter Detection",
+  "description": "Forensic image analysis system detecting AI generation markers, synthetic artifacts, and image processing filters with confidence scoring and Error Level Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
